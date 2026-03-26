@@ -1,6 +1,7 @@
 # 🤖 MAS Creator — Vibe Graphing Universal Agent
 
 > Cria **qualquer coisa** (website, jogo, código, dashboard, documento...) a partir de linguagem natural + imagens, usando um pipeline Multi-Agent System de 3 estágios.
+<img width="1341" height="844" alt="image" src="https://github.com/user-attachments/assets/0a3e3ac7-4b48-45e4-89bf-6d497dbe61d0" />
 
 ---
 
